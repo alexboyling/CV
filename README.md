@@ -38,7 +38,8 @@ _Senior IT Support Analyst (Apr 2020 to Jul 2021)_
 
 _IT Support Analyst (Apr 2019 to Apr 2020)_
 - Responsible for day to day management and support of all hardware/software while the company grew from 200 staff to over 1000 in four countries
-- Brought in IT helpdesk, asset management system and deployed MDM solution for Mac users
+- Identified need for and brought in IT helpdesk and asset management system
+- Deployed mobile device management solution for Mac users to reduce security risk and streamline experience
 
 _Energy Specialist (Feb 2018 to Apr 2019)_
 - Customer facing role (phone/email/chat) that grew to include training and onboarding for new employees
