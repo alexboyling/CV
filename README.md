@@ -1,6 +1,7 @@
 <div align="center">
 <h1>Alex Boyling</h1>  
 <h4>Junior Full-Stack Developer</h4>
+<a href="https://www.linkedin.com/in/alexboyling" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 
 [Tech Stack](#tech-stack) | [Projects](#projects) | [Experience](#work-experience) | [Skills](#skills) | [Education](#education)
 
